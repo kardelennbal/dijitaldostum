@@ -1,6 +1,8 @@
-# 🐾 Dijital Dostum - Beta v2.0
+# 🐾 Dijital Dostum - Beta v1.0
 
 > Bir zamanların efsanesi sanal bebek (Tamagotchi), moder ve "Duolingo" esintili mükemmel bir UI ile geri döndü! Senin de artık cebinde sevgi bekleyen bir dostun var: **Tarçın**! 🐣
+> apk: https://github.com/kardelennbal/dijitaldostum/releases/tag/v1.0
+> youtube Linki: https://youtube.com/shorts/6jQ5hqHZEv8?feature=share 
 
 ---
 
